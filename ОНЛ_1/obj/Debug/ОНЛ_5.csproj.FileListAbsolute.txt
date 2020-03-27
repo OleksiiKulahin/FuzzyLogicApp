@@ -1,0 +1,26 @@
+D:\_Visual Studio projects\c#\ОНЛ_5\ОНЛ_1\bin\Debug\ОНЛ_5.exe.config
+D:\_Visual Studio projects\c#\ОНЛ_5\ОНЛ_1\bin\Debug\ОНЛ_5.exe
+D:\_Visual Studio projects\c#\ОНЛ_5\ОНЛ_1\bin\Debug\ОНЛ_5.pdb
+D:\_Visual Studio projects\c#\ОНЛ_5\ОНЛ_1\obj\Debug\ОНЛ_5.csprojAssemblyReference.cache
+D:\_Visual Studio projects\c#\ОНЛ_5\ОНЛ_1\obj\Debug\ОНЛ_5.MenuForm.resources
+D:\_Visual Studio projects\c#\ОНЛ_5\ОНЛ_1\obj\Debug\ОНЛ_5.OperationsWithIntervalForm.resources
+D:\_Visual Studio projects\c#\ОНЛ_5\ОНЛ_1\obj\Debug\ОНЛ_5.Properties.Resources.resources
+D:\_Visual Studio projects\c#\ОНЛ_5\ОНЛ_1\obj\Debug\ОНЛ_5.OperationsWithTriangleIntervals.resources
+D:\_Visual Studio projects\c#\ОНЛ_5\ОНЛ_1\obj\Debug\ОНЛ_5.csproj.GenerateResource.cache
+D:\_Visual Studio projects\c#\ОНЛ_5\ОНЛ_1\obj\Debug\ОНЛ_5.csproj.CoreCompileInputs.cache
+D:\_Visual Studio projects\c#\ОНЛ_5\ОНЛ_1\obj\Debug\ОНЛ_5.exe
+D:\_Visual Studio projects\c#\ОНЛ_5\ОНЛ_1\obj\Debug\ОНЛ_5.pdb
+D:\_Visual Studio projects\c#\ОНЛ_5\ОНЛ_1\obj\Debug\ОНЛ_5.ModelingOfFuzzyNumbersWithFunctions.resources
+D:\_Visual Studio projects\c#\Fuzzy Logic. Modeling Of Fuzzy Numbers With Functions\ОНЛ_1\bin\Debug\ОНЛ_5.exe.config
+D:\_Visual Studio projects\c#\Fuzzy Logic. Modeling Of Fuzzy Numbers With Functions\ОНЛ_1\bin\Debug\ОНЛ_5.exe
+D:\_Visual Studio projects\c#\Fuzzy Logic. Modeling Of Fuzzy Numbers With Functions\ОНЛ_1\bin\Debug\ОНЛ_5.pdb
+D:\_Visual Studio projects\c#\Fuzzy Logic. Modeling Of Fuzzy Numbers With Functions\ОНЛ_1\obj\Debug\ОНЛ_5.csprojAssemblyReference.cache
+D:\_Visual Studio projects\c#\Fuzzy Logic. Modeling Of Fuzzy Numbers With Functions\ОНЛ_1\obj\Debug\ОНЛ_5.MenuForm.resources
+D:\_Visual Studio projects\c#\Fuzzy Logic. Modeling Of Fuzzy Numbers With Functions\ОНЛ_1\obj\Debug\ОНЛ_5.ModelingOfFuzzyNumbersWithFunctions.resources
+D:\_Visual Studio projects\c#\Fuzzy Logic. Modeling Of Fuzzy Numbers With Functions\ОНЛ_1\obj\Debug\ОНЛ_5.OperationsWithIntervalForm.resources
+D:\_Visual Studio projects\c#\Fuzzy Logic. Modeling Of Fuzzy Numbers With Functions\ОНЛ_1\obj\Debug\ОНЛ_5.Properties.Resources.resources
+D:\_Visual Studio projects\c#\Fuzzy Logic. Modeling Of Fuzzy Numbers With Functions\ОНЛ_1\obj\Debug\ОНЛ_5.OperationsWithTriangleIntervals.resources
+D:\_Visual Studio projects\c#\Fuzzy Logic. Modeling Of Fuzzy Numbers With Functions\ОНЛ_1\obj\Debug\ОНЛ_5.csproj.GenerateResource.cache
+D:\_Visual Studio projects\c#\Fuzzy Logic. Modeling Of Fuzzy Numbers With Functions\ОНЛ_1\obj\Debug\ОНЛ_5.csproj.CoreCompileInputs.cache
+D:\_Visual Studio projects\c#\Fuzzy Logic. Modeling Of Fuzzy Numbers With Functions\ОНЛ_1\obj\Debug\ОНЛ_5.exe
+D:\_Visual Studio projects\c#\Fuzzy Logic. Modeling Of Fuzzy Numbers With Functions\ОНЛ_1\obj\Debug\ОНЛ_5.pdb

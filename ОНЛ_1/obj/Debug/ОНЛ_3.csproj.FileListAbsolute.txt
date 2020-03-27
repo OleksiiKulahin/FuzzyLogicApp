@@ -1,0 +1,12 @@
+D:\_Visual Studio projects\c#\ОНЛ_3\ОНЛ_1\obj\Debug\ОНЛ_3.csprojAssemblyReference.cache
+D:\_Visual Studio projects\c#\ОНЛ_3\ОНЛ_1\obj\Debug\ОНЛ_3.MenuForm.resources
+D:\_Visual Studio projects\c#\ОНЛ_3\ОНЛ_1\obj\Debug\ОНЛ_3.OperationsWithIntervalForm.resources
+D:\_Visual Studio projects\c#\ОНЛ_3\ОНЛ_1\obj\Debug\ОНЛ_3.csproj.GenerateResource.cache
+D:\_Visual Studio projects\c#\ОНЛ_3\ОНЛ_1\obj\Debug\ОНЛ_3.csproj.CoreCompileInputs.cache
+D:\_Visual Studio projects\c#\ОНЛ_3\ОНЛ_1\bin\Debug\ОНЛ_3.exe.config
+D:\_Visual Studio projects\c#\ОНЛ_3\ОНЛ_1\bin\Debug\ОНЛ_3.exe
+D:\_Visual Studio projects\c#\ОНЛ_3\ОНЛ_1\bin\Debug\ОНЛ_3.pdb
+D:\_Visual Studio projects\c#\ОНЛ_3\ОНЛ_1\obj\Debug\ОНЛ_3.Properties.Resources.resources
+D:\_Visual Studio projects\c#\ОНЛ_3\ОНЛ_1\obj\Debug\ОНЛ_3.exe
+D:\_Visual Studio projects\c#\ОНЛ_3\ОНЛ_1\obj\Debug\ОНЛ_3.pdb
+D:\_Visual Studio projects\c#\ОНЛ_3\ОНЛ_1\obj\Debug\ОНЛ_3.OperationsWithTriangleIntervals.resources

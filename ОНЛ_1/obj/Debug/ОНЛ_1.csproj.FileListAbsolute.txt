@@ -1,0 +1,10 @@
+D:\_Visual Studio projects\c#\ОНЛ_1\ОНЛ_1\bin\Debug\ОНЛ_1.exe.config
+D:\_Visual Studio projects\c#\ОНЛ_1\ОНЛ_1\bin\Debug\ОНЛ_1.exe
+D:\_Visual Studio projects\c#\ОНЛ_1\ОНЛ_1\bin\Debug\ОНЛ_1.pdb
+D:\_Visual Studio projects\c#\ОНЛ_1\ОНЛ_1\obj\Debug\ОНЛ_1.csprojAssemblyReference.cache
+D:\_Visual Studio projects\c#\ОНЛ_1\ОНЛ_1\obj\Debug\ОНЛ_1.Properties.Resources.resources
+D:\_Visual Studio projects\c#\ОНЛ_1\ОНЛ_1\obj\Debug\ОНЛ_1.csproj.GenerateResource.cache
+D:\_Visual Studio projects\c#\ОНЛ_1\ОНЛ_1\obj\Debug\ОНЛ_1.csproj.CoreCompileInputs.cache
+D:\_Visual Studio projects\c#\ОНЛ_1\ОНЛ_1\obj\Debug\ОНЛ_1.exe
+D:\_Visual Studio projects\c#\ОНЛ_1\ОНЛ_1\obj\Debug\ОНЛ_1.pdb
+D:\_Visual Studio projects\c#\ОНЛ_1\ОНЛ_1\obj\Debug\ОНЛ_1.MainForm.resources
